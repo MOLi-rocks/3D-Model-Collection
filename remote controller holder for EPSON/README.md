@@ -1,1 +1,1 @@
-Model created by @richegg https://github.com/zxp86021
+Model created by [@richegg](https://github.com/zxp86021)
